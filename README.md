@@ -8,27 +8,10 @@
 * 🌐 You can see some of my projects on [my portfolio](https://bitbucket.org/ohabdev/)
 
 <p align="left">
-  <a href="https://freshidea.com/jonah/"><img alt="Portfolio" title="Portfolio" src="https://img.shields.io/badge/-Portfolio-000000?style=for-the-badge&logo=koding&logoColor=white"/></a>
-    <a href="http://eyl327.mywebcommunity.org/promos/"><img alt="Gifts" title="Gifts for you" src="https://img.shields.io/badge/-Links%20to%20free%20stuff-000000?style=for-the-badge&logo=coveralls&logoColor=white"/></a>
+  <a href="https://www.facebook.com/kkohab494/"><img alt="Facebook" title="Facebook" src="https://img.shields.io/badge/-Facebook-%20%233b5998"/></a>
+    <a href="https://www.linkedin.com/in/ohabdev/"><img alt="Gifts" title="Gifts for you" src="https://img.shields.io/badge/-LinkedIn-%230077b5"/></a>
 </p>
 
-## 🙋‍♂️ Connect with me:
-
-<p align="left">
-  <a href="https://www.youtube.com/c/DevProTips"><img alt="Youtube" title="Youtube" src="https://img.shields.io/badge/-YouTube-red?style=for-the-badge&logo=youtube&logoColor=white"/></a>
-  <!--<a href="https://www.linkedin.com/in/jonah-lawrence/"><img alt="LinkedIn" title="LinkedIn" src="https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>-->
-  <a href="https://twitter.com/DenverCoder1"><img alt="Twitter" title="Twitter" src="https://img.shields.io/badge/-Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white"/></a>
-  <!-- <a href="https://www.reddit.com/user/denvercoder1/"><img alt="Reddit" title="Reddit" src="https://img.shields.io/badge/-Reddit-FF5700?style=for-the-badge&logo=reddit&logoColor=white"/></a> -->
-  <a href="https://jonahlawrence.hashnode.dev/"><img src="https://img.shields.io/badge/Hashnode-%232962FF.svg?&style=for-the-badge&logo=hashnode&logoColor=white"></a>
-  <a href="https://dev.to/denvercoder1"><img src="https://img.shields.io/badge/DEV.TO-%230A0A0A.svg?&style=for-the-badge&logo=dev.to&logoColor=white"></a>
-  <a href="https://ko-fi.com/jlawrence"><img alt="Ko-fi" title="By me a coffee" src="https://img.shields.io/badge/-Buy%20me%20a%20coffee-FF5E5B?style=for-the-badge&logo=ko-fi&logoColor=white"/></a>
-</p>
-
-<p align="left">
-  <a href="https://stackexchange.com/users/16082556/eyl327">
-    <img src="https://stackexchange.com/users/flair/16082556.png" width="208" height="58" alt="profile for DenverCoder1 on Stack Exchange, a network of free, community-driven Q&amp;A sites" title="profile for DenverCoder1 on Stack Exchange, a network of free, community-driven Q&amp;A sites">
-  </a>
-</p>
 
 ## 📘 My projects
 
@@ -54,18 +37,18 @@
     </tr>
     <tr>
       <td><a href="https://kentaku-kyouryokukai.jp/"><b>Multi Language Website & CMS</b></a></td>
-      <td><img alt="Stars" src="https://play.google.com/store/apps/details?id=jp.new_kentaku_kyouryokukai.apps"/>App Link</td>
+      <td><img alt="Stars" src="https://play.google.com/store/apps/details?id=jp.new_kentaku_kyouryokukai.apps"/> App Link</td>
     </tr>
     <tr>
       <td><a href="http://202.86.217.200:8088/simec_store"><b>Inventory Management system</b></a></td>
-      <td><img alt="Stars" src="http://202.86.217.200:8088/simec_store">Link</td>
+      <td><img alt="Stars" src="http://202.86.217.200:8088/simec_store"/>Link</td>
     </tr>
   </tbody>
 </table>
 
 
 <p align="left">
-  <a href="https://github.com/DenverCoder1?tab=repositories"><img alt="Portfolio" title="Portfolio" src="https://img.shields.io/badge/-More%20Repos-black?style=for-the-badge&logo=addthis&logoColor=white"/></a>
+  <a href="https://bitbucket.org/ohabdev/"><img alt="Portfolio" title="Portfolio" src="https://img.shields.io/badge/-More%20Repos-black?style=for-the-badge&logo=addthis&logoColor=white"/></a>
 </p>
 
 ## 👨‍💻 Languages and Tools:
